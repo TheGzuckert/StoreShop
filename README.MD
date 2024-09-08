@@ -2,6 +2,6 @@
 
 ### Stack: Java
 
-- [ ] Criar uma aplicação para lançamento de compras com cartão de credito.
-- [ ] Menu para lançcamento de comrpas
-- [ ] Exibição da lista de compras realizadas e ordenadas por valor
+- [x] Criar uma aplicação para lançamento de compras com cartão de credito.
+- [x] Menu para lançamento de comrpas
+- [x] Exibição da lista de compras realizadas e ordenadas por valor
